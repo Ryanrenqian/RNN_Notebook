@@ -1,14 +1,18 @@
 # Recurrent Neural Networks
 
-# ![](/assets/a1-1.png)![](/assets/a1-2.png)![](/assets/a1-3.png)LSTM
+## Why we choose RNN?
+
+
+
+## What  is RNN
+
+# ![](/assets/a1-1.png)![](/assets/a1-2.png)![](/assets/a1-3.png)What is LSTM
 
 ![](/assets/a1-4.png)
 
 ![](/assets/a1-5.png)
 
 ![](/assets/a1-6.png)
-
-
 
 # quiz
 
