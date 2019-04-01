@@ -1,3 +1,4 @@
-# My Awesome Book
+# My RNN NoteBook
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+This is a book about my experience in RNN study. I hope I can record something important as well as share them with you! 
+
