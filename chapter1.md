@@ -10,9 +10,7 @@
 
 为了解决这类问题，引入RNN，这是一类专门处理序列数据的神经网络。（如下图1-1）
 
-![](/chapter1/1-1.png)当元素\$x^{&lt;t&gt;}\$输入对应时间
-
-
+![](/chapter1/1-1.png)当元素$x^{&lt;t&gt;}$输入对应时间
 
 ## What  is RNN
 
@@ -33,4 +31,6 @@
 ![](/assets/import8.png)![](/assets/import9.png)
 
 ![](/assets/import10.png)![](/assets/import11.png)
+
+[^1]: Enter footnote here.
 
